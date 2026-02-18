@@ -91,7 +91,7 @@ Ask Questions: Type a query in the chat box.
 Example: "What is the summary of the document I uploaded?"
 
 View Sources: Click the "📚 View Sources" dropdown under the AI's answer to see exactly which text chunks were used.
-
+```bash
 📂 Project Structure
 Plaintext
 ├── main.py              # FastAPI Backend Entry Point
@@ -107,6 +107,7 @@ Plaintext
     │   └── App.css      # Styling
     ├── package.json     # Frontend dependencies
     └── vite.config.js   # Vite configuration
+```
 🛡️ License
 This project is developed for academic submission.
 
