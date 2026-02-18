@@ -74,7 +74,7 @@ Bash
 cd frontend
 npm run dev
 The UI will start at http://localhost:5173
-
+```
 📖 Usage
 Open the web portal (usually http://localhost:5173).
 
