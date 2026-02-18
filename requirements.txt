@@ -1,0 +1,13 @@
+streamlit
+numpy
+fastapi
+uvicorn
+python-multipart
+torch
+sentence-transformers
+openai
+python-dotenv
+beautifulsoup4
+requests
+pypdf2
+numpy
